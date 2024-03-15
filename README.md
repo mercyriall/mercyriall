@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+links: [telegram](https://t.me/mercyriall), [instagram](https://www.instagram.com/mercyriall/), [twitch](https://www.twitch.tv/mersiriall)
 <!--
 **mercyriall/mercyriall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
